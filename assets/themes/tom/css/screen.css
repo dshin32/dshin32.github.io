@@ -16,20 +16,24 @@ html, body {
 }
 
 body {
-  background-color: white;
+  /*background-color: white;*/
   /*font: 13.24px helvetica, arial, clean, sans-serif;*/
   *font-size: small;
   text-align: center;
+  color: #232323;
+  background-color: #FBFAF7;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
+  color:#232323;
+  border-bottom: 1px solid #ccc;
 }
 
 h3 {
   font-size: 120%;
-  margin-bottom: 1em;
-  margin-top: 2em;
+  margin-bottom: 0.5em;
+  margin-top: 1.5em;
 }
 
 p {
@@ -43,6 +47,7 @@ a {
 
 a:hover {
   color: black;
+  text-decoration: underline;
 }
 
 a:visited {
