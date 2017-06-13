@@ -41,17 +41,17 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #BF5700;
   text-decoration: none;
 }
 
 a:hover {
-  color: black;
+  color: #BF5700;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #a0a;
+  color: #BF5700;
   text-decoration: none;
 }
 
@@ -90,37 +90,37 @@ ul.posts {
 .site {
   font-size: 105%;
   text-align: justify;
-  width: 50em;
+  width: 46em;
   margin: 3em auto 2em auto;
-  line-height: 1.4em;
+  line-height: 1.5em;
 }
 
 .title {
-  color: #a00;
+  color: #BF5700; /*#a00;*/
   font-weight: bold;
   margin-bottom: 2em;
   font-size: 200%;
 }
 
   .site .title a {
-    color: #a00;
+    color: #BF5700;
     text-decoration: none;
     font-size: 200%;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #BF5700;
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #BF5700;
     text-decoration: none;
     margin-left: 1em;
     font-size: 200%;
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: #BF5700;
   }
 
   .site .meta {
