@@ -12,12 +12,11 @@ tagline: Machine Learning Scientist
 My name is Donghyuk Shin (신동혁). I currently work at Amazon as a Machine Learning Scientist. 
 
 I graduated with a Ph.D. in Computer Science from the [University of Texas at Austin](http://www.utexas.edu), where I was advised by [Prof. Inderjit S. Dhillon](http://www.cs.utexas.edu/users/inderjit) and part of the [Center for Big Data Analytics](http://bigdata.ices.utexas.edu/). Before then, I received my B.E. and M.S. degrees from [Sogang University](http://wwwe.sogang.ac.kr). 
-
 My research interests primarily focus on the field of machine learning and data mining, particularly in recommender systems, social network analysis, forecasting and big data analytics. I am also interested in the field of business analytics and management information systems and have closely worked with [Prof. Andrew B. Whinston](https://sites.google.com/site/abwhinston/).
 
 ### Contact Information
 
-- E-mail: dhshin -at- amazon -dot- com
+- dhshin -at- amazon -dot- com
 
 ### Education
 
@@ -35,9 +34,9 @@ My research interests primarily focus on the field of machine learning and data 
  -->
 ### Work Experience
 
-- Machine Learning Scientist, **Amazon**, current.
+- Machine Learning Scientist, **Amazon LLC**, current.
 - Intern Scientist, **Yahoo Labs**, Summer 2014.
-- Machine Learning Intern, **Amazon**, Summer 2013.
+- Machine Learning Intern, **Amazon LLC**, Summer 2013.
 
 ### Selected Publications
 
