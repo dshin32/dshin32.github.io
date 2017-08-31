@@ -21,15 +21,15 @@ My research interests primarily focus on the field of machine learning and data 
 ### Education
 
 - **University of Texas at Austin**, Austin, TX, USA.
-  - Ph.D. in Conputer Science, 2017.
+  - Ph.D. in Computer Science, 2017.
 - **Sogang University**, Seoul, South Korea.
-  - M.S. in Conputer Science & Engineering, 2008.
-  - B.E. in Conputer Science & Engineering and B.Econ. (Economics), 2006.
+  - M.S. in Computer Science & Engineering, 2008.
+  - B.E. in Computer Science & Engineering and B.Econ. (Economics), 2006.
 
 <!--  
-- **Ph.D.** in Conputer Science, The University of Texas at Austin, Austin, TX, USA, 2017.
-- **M.S.** in Conputer Science & Engineering, Sogang University, Seoul, South Korea, 2008.
-- **B.E.** in Conputer Science & Engineering, Sogang University, Seoul, South Korea, 2006.
+- **Ph.D.** in Computer Science, The University of Texas at Austin, Austin, TX, USA, 2017.
+- **M.S.** in Computer Science & Engineering, Sogang University, Seoul, South Korea, 2008.
+- **B.E.** in Computer Science & Engineering, Sogang University, Seoul, South Korea, 2006.
 - **B.Econ.** in Economics, Sogang University, Seoul, South Korea, 2006.
  -->
 ### Work Experience
@@ -43,6 +43,9 @@ My research interests primarily focus on the field of machine learning and data 
 - Content Complexity, Similarity, and Consistency in Social Media: A Deep Learning Approach\\
   D. Shin, S. He, G. M. Lee, A. B. Whinston, S. Cetintas, and K. Lee\\
   R&R at *MIS Quarterly*, 2017.
+- Customer Attitude from Social Media, Customer Satisfaction Index, and Firm Value\\
+  S. Chung, D. Shin, A. Animesh, and K. Han\\
+  *Proceedings of the INFORMS Conference on Information Systems and Technology (CIST)*, 2017.
 - Analyzing Content and Customer Engagement in Social Media with Deep Learning [[pdf](https://dshin32.github.io/assets/papers/tumblr_cist2016.pdf)] [[SSRN](https://ssrn.com/abstract=2830377)]\\
   D. Shin, S. He, G. M. Lee, and A. B. Whinston\\
   *Proceedings of the INFORMS Conference on Information Systems and Technology (CIST)*, 2016.
