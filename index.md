@@ -40,7 +40,7 @@ My research interests primarily focus on the field of machine learning and data 
 
 ### Selected Publications
 
-- Content Complexity, Similarity, and Consistency in Social Media: A Deep Learning Approach\\
+- Enhancing Social Media Analysis with Visual Analytics: A Deep Learning Approach\\
   D. Shin, S. He, G. M. Lee, A. B. Whinston, S. Cetintas, and K. Lee\\
   R&R at *MIS Quarterly*, 2017.
 - Customer Attitude from Social Media, Customer Satisfaction Index, and Firm Value\\
