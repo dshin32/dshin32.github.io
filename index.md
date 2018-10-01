@@ -40,10 +40,10 @@ My research interests primarily focus on the field of machine learning and data 
 
 ### Selected Publications
 
-- Enhancing Social Media Analysis with Visual Analytics: A Deep Learning Approach [[SSRN](https://ssrn.com/abstract=2830377)]\\
+- Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach [[SSRN](https://ssrn.com/abstract=2830377)]\\
   D. Shin, S. He, G. M. Lee, A. B. Whinston, S. Cetintas, and K. Lee\\
   R&R at *MIS Quarterly*, 2018.
-- Customer Attitude from Social Media, Customer Satisfaction Index, and Firm Value [[SSRN](https://ssrn.com/abstract=3012420)]\\
+- Customer Attitude from Social Media, Customer Satisfaction Index, and Firm Value [[pdf](https://dshin32.github.iio/assets/papers/csi_cist2017.pdf)][[SSRN](https://ssrn.com/abstract=3012420)]\\
   S. Chung, D. Shin, A. Animesh, and K. Han\\
   *Proceedings of the INFORMS Conference on Information Systems and Technology (CIST)*, 2017.
 - Analyzing Content and Customer Engagement in Social Media with Deep Learning [[pdf](https://dshin32.github.io/assets/papers/tumblr_cist2016.pdf)]\\
