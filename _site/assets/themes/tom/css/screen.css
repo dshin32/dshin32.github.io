@@ -41,17 +41,17 @@ p {
 }
 
 a {
-  color: #BF5700;
+  color: #8C1D40; /* #BF5700 burnt orange */
   text-decoration: none;
 }
 
 a:hover {
-  color: #BF5700;
+  color: #8C1D40;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #BF5700;
+  color: #8C1D40;
   text-decoration: none;
 }
 
@@ -96,31 +96,31 @@ ul.posts {
 }
 
 .title {
-  color: #BF5700; /*#a00;*/
+  color: #8C1D40; /*#a00;*/
   font-weight: bold;
   margin-bottom: 2em;
   font-size: 200%;
 }
 
   .site .title a {
-    color: #BF5700;
+    color: #8C1D40;
     text-decoration: none;
     font-size: 200%;
   }
 
   .site .title a:hover {
-    color: #BF5700;
+    color: #8C1D40;
   }
 
   .site .title a.extra {
-    color: #BF5700;
+    color: #8C1D40;
     text-decoration: none;
     margin-left: 1em;
     font-size: 200%;
   }
 
   .site .title a.extra:hover {
-    color: #BF5700;
+    color: #8C1D40;
   }
 
   .site .meta {
