@@ -36,7 +36,7 @@ My research interests primarily focus on the field of machine learning and data 
 
 - Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach [[SSRN](https://ssrn.com/abstract=2830377)]\\
   D. Shin, S. He, G. M. Lee, A. B. Whinston, S. Cetintas, and K. Lee\\
-  R&R at *MIS Quarterly*, 2019.
+  *MIS Quarterly*, Forthcoming, 2019.
 - Customer Attitude from Social Media, Customer Satisfaction Index, and Firm Value [[pdf](https://dshin32.github.io/assets/papers/csi_cist2017.pdf)][[SSRN](https://ssrn.com/abstract=3012420)]\\
   S. Chung, D. Shin, A. Animesh, and K. Han\\
   *Proceedings of the INFORMS Conference on Information Systems and Technology (CIST)*, 2017.
@@ -51,7 +51,7 @@ My research interests primarily focus on the field of machine learning and data 
   *Proceedings of the ACM Conference on Information and Knowledge Management (CIKM)*, 2015.
 - Multi-Scale Spectral Decomposition of Massive Graphs [[pdf](https://www.cs.utexas.edu/users/inderjit/public_papers/mseigs_nips2014.pdf)] [[code](https://www.cs.utexas.edu/users/ssi/mseigs)]\\
   S. Si\*, D. Shin\*, I. S. Dhillon, and B. N. Parlett\\
-  *Proceedings of the Neural Information Processing Systems Conference (NIPS)*, 2014.
+  *Proceedings of the Neural Information Processing Systems Conference (NeurIPS)*, 2014.
 - Which App Will You Use Next? Collaborative Filtering with Interactional Context [[pdf](https://www.cs.utexas.edu/users/inderjit/public_papers/app_recommendation_recsys13.pdf)]\\
   N. Natarajan\*, D. Shin\*, and I. S. Dhillon\\
   *Proceedings of the ACM Conference on Recommender Systems (RecSys)*, 2013.
