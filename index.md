@@ -9,14 +9,14 @@ tagline: Machine Learning Scientist
 
 <!-- ### Introduction -->
 
-My name is Donghyuk Shin (신동혁). I currently work at Amazon as a Machine Learning Scientist. 
+My name is Donghyuk Shin (신동혁). I am an Assistant Professor in the [Department of Information Systems](https://wpcarey.asu.edu/information-systems-degrees) at the [W. P. Carey School of Business](https://wpcarey.asu.edu) of [Arizona State University](https://www.asu.edu). 
 
-I graduated with a Ph.D. in Computer Science from the [University of Texas at Austin](https://www.utexas.edu), where I was advised by [Prof. Inderjit S. Dhillon](https://www.cs.utexas.edu/users/inderjit) and part of the [Center for Big Data Analytics](http://bigdata.ices.utexas.edu/). Before then, I received my B.E. and M.S. degrees from [Sogang University](http://wwwe.sogang.ac.kr). 
+Prior to joining ASU, I worked at Amazon Web Services as a Machine Learning Scientist. I graduated with a Ph.D. in Computer Science from the [University of Texas at Austin](https://www.utexas.edu), where I was advised by [Prof. Inderjit S. Dhillon](https://www.cs.utexas.edu/users/inderjit) and part of the [Center for Big Data Analytics](http://bigdata.ices.utexas.edu/). Before then, I received my B.E. and M.S. degrees from [Sogang University](http://wwwe.sogang.ac.kr). 
 My research interests primarily focus on the field of machine learning and data mining, particularly in deep learning, recommender systems, forecasting, social network analysis and big data analytics. I am also interested in the field of business analytics and management information systems and have closely worked with [Prof. Andrew B. Whinston](https://sites.google.com/site/abwhinston/).
 
 ### Contact Information
 
-- dhshin -at- amazon -dot- com
+- dhs -at- asu -dot- edu
 
 ### Education
 
@@ -28,7 +28,7 @@ My research interests primarily focus on the field of machine learning and data 
 
 ### Work Experience
 
-- Machine Learning Scientist, **Amazon.com Services, Inc.**, 2016 -- current.
+- Machine Learning Scientist, **Amazon.com Services, Inc.**, 2016 -- 2019.
 - Intern Scientist, **Yahoo Research**, Summer 2014.
 - Machine Learning Intern, **Amazon.com Services, Inc.**, Summer 2013.
 
