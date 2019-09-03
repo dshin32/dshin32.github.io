@@ -30,7 +30,7 @@ My research interests primarily focus on the field of machine learning and data 
 
 - Assistant Professor, **Arizona State University**, 2019 -- current.
 - Machine Learning Scientist, **Amazon.com Services, Inc.**, 2016 -- 2019.
-- Intern Scientist, **Yahoo Research**, Summer 2014.
+- Research Scientist Intern, **Yahoo Research**, Summer 2014.
 - Machine Learning Intern, **Amazon.com Services, Inc.**, Summer 2013.
 
 ### Selected Publications
