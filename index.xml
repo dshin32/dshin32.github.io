@@ -5,42 +5,74 @@
     <link>https://dshin32.github.io/</link>
       <atom:link href="https://dshin32.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Donghyuk Shin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Donghyuk Shin © 2020</copyright><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Donghyuk Shin © 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dshin32.github.io/img/icon-192.png</url>
+      <url>https://dshin32.github.io/images/icon_hu9b02c7b5be7e70ee0131d37a3e92dcbf_32189_512x512_fill_lanczos_center_2.png</url>
       <title>Donghyuk Shin</title>
       <link>https://dshin32.github.io/</link>
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://dshin32.github.io/publication/</link>
-      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://dshin32.github.io/publication/</guid>
+      <title>Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach</title>
+      <link>https://dshin32.github.io/publication/misq_tumblr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/misq_tumblr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Customer Attitude from Social Media, Customer Satisfaction Index and Firm Value</title>
+      <link>https://dshin32.github.io/publication/cist_2017/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/cist_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://dshin32.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dshin32.github.io/post/</guid>
+      <title>Analyzing Content and Customer Engagement in Social Media with Deep Learning</title>
+      <link>https://dshin32.github.io/publication/cist_2016/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/cist_2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dshin32.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dshin32.github.io/talk/</guid>
+      <title>Sharing Behavior in Online Social Media: An Empirical Analysis with Deep Learning</title>
+      <link>https://dshin32.github.io/publication/web_2016/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/web_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumblr Blog Recommendation with Boosted Inductive Matrix Completion</title>
+      <link>https://dshin32.github.io/publication/blog_rec/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/blog_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Spectral Decomposition of Massive Graphs</title>
+      <link>https://dshin32.github.io/publication/mseigs/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/mseigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which App Will You Use Next? Collaborative Filtering with Interactional Context</title>
+      <link>https://dshin32.github.io/publication/app_rec/</link>
+      <pubDate>Thu, 19 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/app_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-scale Link Prediction</title>
+      <link>https://dshin32.github.io/publication/mslp/</link>
+      <pubDate>Wed, 19 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://dshin32.github.io/publication/mslp/</guid>
       <description></description>
     </item>
     
