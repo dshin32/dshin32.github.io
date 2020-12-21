@@ -275,7 +275,16 @@
   document.addEventListener('click', onClickCallback, false);
 </script>
 
+<!-- Note: plugin scripts must be included after the tracking snippet. -->
+<script src="https://ipmeta.io/plugin.js"></script>
 
+<script>
+   provideGtagPlugin({
+      serviceProvider: 'dimension1',
+      networkDomain: 'dimension2',
+      networkType: 'dimension3',
+   });
+</script>
   
 
 
@@ -313,7 +322,7 @@
   <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://dshin32.github.io/images/icon_hu9b02c7b5be7e70ee0131d37a3e92dcbf_32189_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://dshin32.github.io/images/icon_hu9b02c7b5be7e70ee0131d37a3e92dcbf_32189_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-11-12T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-12-01T00:00:00&#43;00:00">
   
 
   
@@ -2405,7 +2414,10 @@ My research interest lies in the intersection of machine learning and informatio
       
     </div>
     <div class="col-12 col-lg-8">
-      <p><strong>Spring 2020:</strong> CIS 325 Programming for Business Analytics</p>
+      <ul>
+<li><strong>Spring 2021:</strong> CIS 325 Programming for Business Analytics</li>
+<li><strong>Spring 2020:</strong> CIS 325 Programming for Business Analytics</li>
+</ul>
 
     </div>
   
