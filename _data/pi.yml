@@ -1,0 +1,24 @@
+- name: Donghyuk Shin, Ph.D.
+  photo: headshot.jpg
+  info: Assistant Professor, ASU
+  email: dhs@asu.edu
+  # github: https://github.com/dshin32
+  # researchgate: https://www.researchgate.net/profile/Donghyuk-Shin-2
+  scholar: https://scholar.google.com/citations?user=BuDfw00AAAAJ
+  linkedin: https://www.linkedin.com/in/dshin32
+  work_url: https://isearch.asu.edu/profile/3518573 # work page URL
+  # cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(2019-) Assistant Professor, Dept. of Information Systems, W. P. Carey School of Business, Arizona State University"
+  education2: "(2016-2019) Machine Learning Scientist, Amazon Web Services"
+  education3: "(2017) Ph.D. Computer Science, University of Texas at Austin"
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (19-) Asst Prof, ASU
+  education2short: (16-19) ML Scientist, Amazon
+  education3short: (17) Ph.D. Comp Sci, UT-Austin 
+  # education1short: 
+  # education5short: 
+  # education6short: 
