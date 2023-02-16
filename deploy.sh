@@ -42,6 +42,9 @@ set -e
 echo "Deploying..."
 echo "Deploy branch: $DEPLOY_BRANCH"
 
+# Checkout DEPLOY_BRANCH branch
+git checkout $DEPLOY_BRANCH
+
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
 
